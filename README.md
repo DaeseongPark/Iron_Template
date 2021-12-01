@@ -1,4 +1,4 @@
-# IronTemplate
+# Iron Template
 
 A New Iron Emission Template for Active Galactic Nuclei. I. Optical Template for the Hβ region
 
